@@ -1,0 +1,19 @@
+{
+  "name": "secondservertest",
+  "version": "1.0.0",
+  "description": "server second test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francesca-fox/secondTest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Francesca-fox/secondTest/issues"
+  },
+  "homepage": "https://github.com/Francesca-fox/secondTest#readme"
+}
