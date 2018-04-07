@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Francesca-fox/secondTest/issues"
   },
-  "homepage": "https://github.com/Francesca-fox/secondTest#readme"
+  "homepage": "https://github.com/Francesca-fox/secondTest#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
